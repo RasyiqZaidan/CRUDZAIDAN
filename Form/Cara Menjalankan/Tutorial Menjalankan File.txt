@@ -1,0 +1,38 @@
+Cara Menjalankan Filenya
+Aktifkan Xampp terlebih dahulu,
+setelah itu search di google:
+localhost/Form/index2.php
+Selamat Mencoba
+
+
+
+
+
+                                                                                                           by:Zaidan.R.F.A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+by:Zaidan.R.F.A
